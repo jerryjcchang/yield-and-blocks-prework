@@ -7,3 +7,5 @@ def hamburger(toppings)
   end
   my_statements
 end
+
+hamburger(toppings)
