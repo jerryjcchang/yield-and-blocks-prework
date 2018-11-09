@@ -8,4 +8,4 @@ def hamburger(toppings)
   my_statements
 end
 
-hamburger(toppings)
+return hamburger(toppings)
