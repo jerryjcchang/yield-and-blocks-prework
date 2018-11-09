@@ -1,3 +1,5 @@
+toppings = ["pickles", "mushrooms", "bacon"]
+
 def hamburger(toppings)
   my_statements = []
   toppings.each do |topping|
